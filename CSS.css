@@ -1,0 +1,19 @@
+body {
+  font-family: 'Gaegu', cursive;
+  color: #255180
+}
+h1 {
+  font-family: 'Poor Story', cursive;
+}
+h2 {
+  font-family: 'Poor Story', cursive;
+}
+h3 {
+  font-family: 'Poor Story', cursive;
+}
+p{
+  font-size: 20px;
+}
+.makeBlue {
+  color: purple;
+}
